@@ -1,0 +1,24 @@
+/* Logo Carousel Styles */
+@keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+.animate-scroll {
+    animation: scroll 20s linear infinite;
+}
+
+.animate-scroll:hover {
+    animation-play-state: paused;
+}
+
+/* Custom orange gradient cursor for homepage */
+body.custom-cursor, body.custom-cursor * {
+    cursor: url('data:image/svg+xml;utf8,<svg width="60" height="18" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="%23FFD700"/><stop offset="100%" stop-color="%23FF8800"/></linearGradient></defs><polyline points="2,3 58,7" stroke="url(%23g1)" stroke-width="3" fill="none"/><polyline points="2,6 58,10" stroke="%23FFB300" stroke-width="3" fill="none"/><polyline points="2,9 58,13" stroke="%23FF9800" stroke-width="3" fill="none"/><polyline points="2,12 58,16" stroke="%23FF6D00" stroke-width="3" fill="none"/></svg>') 0 10, pointer !important;
+}
+
+@media (pointer: coarse) {
+  body.custom-cursor, body.custom-cursor * {
+    cursor: pointer !important;
+  }
+}

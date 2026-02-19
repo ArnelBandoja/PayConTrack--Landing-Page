@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-f30c90b4-1fa1-4527-a160-e0903f25b80c" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 214 230">
+  <defs>
+    <style>
+      .uuid-26dcbe59-0c3c-4e00-aa32-5def172fdbfb {
+        fill: #adadad;
+        filter: url(#uuid-6f854faf-5722-4fb5-ae69-755df0c1676b);
+      }
+
+      .uuid-aa5f77f1-baa2-49a6-b8bd-e8ed1af406bf {
+        fill: url(#uuid-e4af1148-35ae-4135-8e78-5a8964fb72ae);
+        filter: url(#uuid-24106a0b-87ba-4fe0-ac54-3a752914c001);
+      }
+
+      .uuid-53b973bc-940a-4bb2-8cd7-3c011562b699 {
+        filter: url(#uuid-761a0b0b-4128-42e8-a3d5-da3102e8d165);
+      }
+
+      .uuid-1048c7a8-f134-4837-9b04-02ffdec8b5e3 {
+        fill: url(#uuid-e46dcdf4-01d4-4126-828a-83a278517bc0);
+        filter: url(#uuid-037d46f3-2087-4afa-839d-f7e67009e03f);
+      }
+
+      .uuid-1c0434a8-822a-4b73-8680-a9a5614ac0fb {
+        fill: url(#uuid-569baada-6808-4a5f-b815-82ca23a270f0);
+      }
+
+      .uuid-c4737f93-baa1-4115-bd34-39b0c33d6869 {
+        fill: url(#uuid-61b85604-2eb9-477a-ad03-9409dd8ee484);
+        filter: url(#uuid-6fb098c9-1507-420d-b670-dfff34c0ed7c);
+      }
+
+      .uuid-88705ad6-1158-44b5-aace-66833b74ad96 {
+        fill: #7c7a7c;
+      }
+    </style>
+    <linearGradient id="uuid-e4af1148-35ae-4135-8e78-5a8964fb72ae" x1="88.84" y1="146.86" x2="45.07" y2="170.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7ab3b"/>
+      <stop offset=".23" stop-color="#f59b37"/>
+      <stop offset=".68" stop-color="#f0712e"/>
+      <stop offset="1" stop-color="#ec5027"/>
+    </linearGradient>
+    <filter id="uuid-24106a0b-87ba-4fe0-ac54-3a752914c001" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="7"/>
+      <feGaussianBlur result="uuid-44a6e232-1eb0-4ae2-9b69-79bcd8ab7e4d" stdDeviation="5"/>
+      <feFlood flood-color="#fff" flood-opacity=".05"/>
+      <feComposite in2="uuid-44a6e232-1eb0-4ae2-9b69-79bcd8ab7e4d" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="uuid-6f854faf-5722-4fb5-ae69-755df0c1676b" data-name="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="7"/>
+      <feGaussianBlur result="uuid-6cf2afed-2091-4e8b-89f0-19a24c07d40f" stdDeviation="5"/>
+      <feFlood flood-color="#fff" flood-opacity=".05"/>
+      <feComposite in2="uuid-6cf2afed-2091-4e8b-89f0-19a24c07d40f" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="uuid-61b85604-2eb9-477a-ad03-9409dd8ee484" x1="76.59" y1="157.9" x2="189.88" y2="66.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7ab3b"/>
+      <stop offset="1" stop-color="#ec5027"/>
+    </linearGradient>
+    <filter id="uuid-6fb098c9-1507-420d-b670-dfff34c0ed7c" data-name="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="0"/>
+      <feGaussianBlur result="uuid-2b7d1ccd-db88-4948-a75f-0bb37975be0a" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".25"/>
+      <feComposite in2="uuid-2b7d1ccd-db88-4948-a75f-0bb37975be0a" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="uuid-e46dcdf4-01d4-4126-828a-83a278517bc0" x1="15.89" y1="-.43" x2="148.39" y2="82.13" xlink:href="#uuid-61b85604-2eb9-477a-ad03-9409dd8ee484"/>
+    <filter id="uuid-037d46f3-2087-4afa-839d-f7e67009e03f" data-name="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="0"/>
+      <feGaussianBlur result="uuid-bdcb7daa-dea9-44c1-a847-00d9f755ee9e" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".25"/>
+      <feComposite in2="uuid-bdcb7daa-dea9-44c1-a847-00d9f755ee9e" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="uuid-761a0b0b-4128-42e8-a3d5-da3102e8d165" data-name="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="uuid-53ac9601-b2b9-4cc2-81a5-e155fa740ea9" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".55"/>
+      <feComposite in2="uuid-53ac9601-b2b9-4cc2-81a5-e155fa740ea9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="uuid-569baada-6808-4a5f-b815-82ca23a270f0" x1="76.47" y1="157.75" x2="189.76" y2="66.69" xlink:href="#uuid-61b85604-2eb9-477a-ad03-9409dd8ee484"/>
+  </defs>
+  <g id="uuid-466f781c-229d-4af3-bf26-ebf0c6bbedc2" data-name="Layer 1">
+    <g>
+      <path class="uuid-88705ad6-1158-44b5-aace-66833b74ad96" d="M68.41,106.05c-.31,.2-8.65,76.67,28.89,78.46-22.38,2.32-54.36,7.28-54.36,7.28,0,0-23.33-82.97,25.48-85.74Z"/>
+      <path class="uuid-aa5f77f1-baa2-49a6-b8bd-e8ed1af406bf" d="M67.83,107.53s-24.88,79.03,32.72,87.79c-22.44,1.74-54.5,.72-54.5,.72,0,0-27.08-86.99,21.79-88.51Z"/>
+      <path class="uuid-26dcbe59-0c3c-4e00-aa32-5def172fdbfb" d="M68.06,122.28s-18.32,73.66,32.64,81.99c-21.72,5.9-62.44,1.85-62.44,1.85,0,0-17.92-73.23,29.8-83.84Z"/>
+    </g>
+    <path class="uuid-c4737f93-baa1-4115-bd34-39b0c33d6869" d="M86.97,143.88s6.54-49.22,54.62-45.69c1.47,.11,2.94,.16,4.41,.05,31.96-2.55,30.69-46.82,20.02-60.24,0,0,58.93,67.1-15.96,106.28-2.74,1.43-5.72,2.38-8.78,2.84-29.71,4.5-56.2,.83-54.31-3.24Z"/>
+    <path class="uuid-1048c7a8-f134-4837-9b04-02ffdec8b5e3" d="M153.09,74.59s19.65-45.94-38.35-57.41c-68.88,1.59-108.94-1.41-108.94-1.41,0,0-2.35,42.59,40.94,46.35,45.71,3.06,85.59-7,106.35,12.47Z"/>
+    <g class="uuid-53b973bc-940a-4bb2-8cd7-3c011562b699">
+      <path class="uuid-1c0434a8-822a-4b73-8680-a9a5614ac0fb" d="M106.03,94.29c-7.77,5.45-18.42,14.47-27.39,28.31-5.26,8.12-13.19,21.54-14.92,40.56-4.58,50.23,38.78,58.02,38.78,58.02-26.04,.53-52.08,1.06-78.12,1.59-3.53-3.76-8.33-9.55-12.59-17.47-2.95-5.48-11.04-21-9.78-42.07,0,0,1.05-17.59,9.61-32.58,14.91-26.11,52.39-40.47,94.41-36.35Z"/>
+    </g>
+  </g>
+</svg>
